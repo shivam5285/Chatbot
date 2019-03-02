@@ -10,7 +10,7 @@ import sqlite3
 # df = pd.read_csv('trainfrom.txt')
 # print(df.head())
 #==============================================================================
-conn = sqlite3.connect('2015-05.db')
+conn = sqlite3.connect('2009-06.db')
 c = conn.cursor()
 
 
